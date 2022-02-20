@@ -1,0 +1,15 @@
+.header_icon{
+    padding: 15px;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+p{
+    font-family: 'Redressed', cursive;
+    font-size: 20px;
+}
